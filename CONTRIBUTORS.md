@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Debjit Das](https://github.com/debjit-ops)
+- Place: Bangalore, India
+- Bio: Student at Dayananda Sagar University
+- GitHub: [Debjit Das](https://github.com/debjit-ops)
